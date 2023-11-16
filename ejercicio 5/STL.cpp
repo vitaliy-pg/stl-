@@ -16,3 +16,9 @@ int main() {
         std::cout << numero << " ";
     }
     std::cout << std::endl;
+
+    std::map<std::string, int> edades = {
+        {"Juan", 20},
+        {"María", 25},
+        {"Pedro", 30}
+    };          // Crear un mapa con 3 elementos
