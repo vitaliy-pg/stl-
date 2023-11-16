@@ -13,3 +13,13 @@ int main() {
     double areaRombo = Geometria::calcularAreaRombo(5.0, 8.0);
     double areaTrapecio = Geometria::calcularAreaTrapecio(6.0, 4.0, 5.0);
     double areaRectangulo = Geometria::calcularAreaRectangulo(7.0, 3.0);
+
+
+    std::cout << "Área del triángulo: " << areaTriangulo << std::endl;
+    std::cout << "Área del círculo: " << areaCirculo << std::endl;
+    std::cout << "Área del rombo: " << areaRombo << std::endl;
+    std::cout << "Área del trapecio: " << areaTrapecio << std::endl;
+    std::cout << "Área del rectángulo: " << areaRectangulo << std::endl;
+
+    return 0;
+}
