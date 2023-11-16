@@ -11,6 +11,6 @@ namespace Ciencia {
     }
 
     namespace Matematicas {
-        const double pi = 3.14159265358979323846;  // Valor de PI
+        const double pi = 3.14159265358979323846;  // Valor de pi
     }
 }
